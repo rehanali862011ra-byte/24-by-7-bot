@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "rergxfdd33.aternos.me:26088",
+    "ip": "rergxfdd33.aternos.me",
     "port": 26088,
     "version": "1.20.1",
     "try-creative": false
