@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "rergxfdd33.aternos.me:26088",
+    "port": 26088,
     "version": "1.20.1",
     "try-creative": false
   },
